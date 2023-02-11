@@ -26,3 +26,13 @@
 .carousel-caption button{
     color: #3F87F5;
 }
+.container{
+    margin: 100px 0;
+}
+.row{
+    align-items: center;
+
+}
+.margine{
+    margin-bottom: 100px;
+}
